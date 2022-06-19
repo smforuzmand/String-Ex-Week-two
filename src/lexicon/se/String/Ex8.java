@@ -1,4 +1,4 @@
-package lexicon.se.week2;
+package lexicon.se.String;
 
 public class Ex8 {
     public static void parsTest() {

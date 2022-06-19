@@ -1,4 +1,4 @@
-package lexicon.se.week2;
+package lexicon.se.String;
 
 public class main {
     public static void main(String[] args) {

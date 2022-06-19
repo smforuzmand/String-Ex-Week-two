@@ -1,4 +1,4 @@
-package lexicon.se.week2;
+package lexicon.se.String;
 
 public class Ex10 {
     public static void SplitTest2()

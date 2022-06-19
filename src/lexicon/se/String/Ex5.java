@@ -1,6 +1,4 @@
-package lexicon.se.week2;
-
-import java.util.Locale;
+package lexicon.se.String;
 
 public class Ex5 {
     public static void LowerCaseTest() {
