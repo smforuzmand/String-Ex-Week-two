@@ -13,7 +13,7 @@ public class main {
         //Ex9.SplitTest();
         //Ex10.SplitTest2();
         //Ex11.ConvertTest();
-        Ex12.ConvertTwoTest();
+        //Ex12.ConvertTwoTest();
 
     }
 
