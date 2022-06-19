@@ -1,0 +1,14 @@
+package lexicon.se.week2;
+
+public class Ex10 {
+    public static void SplitTest2()
+    {
+        String SplitTest = "Carl,Susie,Fredrick,Bob,Erik";
+        String[] arrayToSplit = SplitTest.split(",",-1);
+        for (String arr : arrayToSplit)
+            System.out.println(arr);
+    }
+}
+
+
+
